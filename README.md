@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GGi5
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning programming to better your technical lives in future
-- 💞️ I’m looking to collaborate on upcoming and to advance technical life
+- 💞️ I’m looking to collaborate on upcoming and to advance technical applications and softwares
 - 📫 How to reach me , you can contact me at gideon.mutugi@student.moringaschool.com
 
 <!---
